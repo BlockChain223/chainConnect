@@ -1,4 +1,33 @@
-# eIquidus v1.99.0
+# BitConnect CryptoCurrency BlockChain Block-Explorer eIquidus-Ledger
+
+BCC | bitconnectCoin Genesis
+```
+"genesis_block": "00000d3bd95c47fa17c47e1e2732d7072a6c4014a2fa93873124418a8fd9a300"
+"genesis_tx": "2bf84615b1764b410285da38aa6a724b84ddd62b4a5dcec70a4c1bbaf6a09c09"
+
+"blockindex": 1337
+"blockhash": "0000000000d9a46c3126e02b128234d38be28397b13363c9dedf1dbc177dc687"
+"txhash": "97536cabf065a9818448ee8566df1d2a0bdfb7e2e6d51f85084b912579bf81b4"
+"address": "8VX7ER5ksnLH3iu5chm4yvJTgkMRy7SoKD"
+```
+
+BCCX | bitconnectX Genesis
+```
+"genesis_block": "000003e4086c6030369ce90af75ec0b93e534f1072023d92090dcc4365522bb0"
+"genesis_tx": "894eb24861a3fabd1d5e964c7328c8e1fa0a8fbabfcd1b95a24c42232fe6f05e"
+
+"blockindex": 1337
+"blockhash": "000000197fd57e89e5194e87cf1cb9f7b127ddc0a9d6ccbf5ec2775801c7a219"
+"txhash": "4ed6666059c8ecb436a4a04427977caf011e49e4a60ff143ee0d9858614eaf7e"
+"address": "XN1t2Vs7AgLVme3x12n8TJq9sXoP7ZsyC5"
+```
+
+## Notes
+Hey Heey Heeey
+
+---
+
+### eIquidus v1.99.0
 
 The most stable, secure, customizable and feature-rich open-source altcoin block explorer. Regular Updates ~ Mobile Friendly ~ Public API's ~ Themeable ~ Masternode List ~ Network Peer List ~ Top 100 Wallets List ~ Market Support ~ Claim Address Support ~ Custom RPC Cmd Support ~ Bitcoin + Heavycoin + zk-SNARKs Support ~ Highly Customizable ~ https://explorer.exor.io/
 
