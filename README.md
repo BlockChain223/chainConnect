@@ -1,6 +1,6 @@
 # BitConnect CryptoCurrency BlockChain Block-Explorer eIquidus-Ledger
 
-BCC | bitconnectCoin Genesis
+BCC | [bitconnectCoin Genesis](https://github.com/bitconnectCoin/bitconnectCoin/)
 ```
 "genesis_block": "00000d3bd95c47fa17c47e1e2732d7072a6c4014a2fa93873124418a8fd9a300"
 "genesis_tx": "2bf84615b1764b410285da38aa6a724b84ddd62b4a5dcec70a4c1bbaf6a09c09"
@@ -11,7 +11,7 @@ BCC | bitconnectCoin Genesis
 "address": "8VX7ER5ksnLH3iu5chm4yvJTgkMRy7SoKD"
 ```
 
-BCCX | bitconnectX Genesis
+BCCX | [bitconnectX Genesis](https://github.com/bitconnectCoin/bitconnectX/)
 ```
 "genesis_block": "000003e4086c6030369ce90af75ec0b93e534f1072023d92090dcc4365522bb0"
 "genesis_tx": "894eb24861a3fabd1d5e964c7328c8e1fa0a8fbabfcd1b95a24c42232fe6f05e"
